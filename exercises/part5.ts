@@ -1,8 +1,7 @@
 // Add your import statement here:
 
 
-let kilometersToMars: number = 225000000;
-let kilometersToTheMoon: number = 384400;
+
 
 class Spacecraft {
   milesPerKilometer: number = 0.621;
